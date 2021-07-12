@@ -19,3 +19,6 @@ end
 if game.PlaceId == 6939849554 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/jonascool9/ScoobsScripts/main/Main.Lua"))()
 end
+if game.PlaceId == 6830102767 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/jonascool9/ScoobsScripts/main/Main.Lua"))()
+end
